@@ -1,12 +1,3 @@
-# Teo Me Refs
-
-Repositório para divulgação de material em Data Science, Programação e Estatística.
-
-* [Primeiros passos](#primeiros-passos)
-* [Temas](#temas)
-* [Blogs](#blogs--sites)
-* [Perfis](#perfis)
-* [Podcasts](#podcasts)
 
 ## Primeiros passos
 
